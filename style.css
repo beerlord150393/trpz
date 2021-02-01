@@ -1,0 +1,118 @@
+
+h1{
+    background-color:blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);}
+h2{border-radius: 80px;
+    color: rgb(0, 0, 0);}
+p{
+    border-right: 50px;
+    color: black;}
+ 
+
+.hd{
+    display:flex;
+    justify-content: space-between;
+    background-color:blue
+    
+
+}
+footer{
+margin-top: 150px;
+font-size: medium;
+background-color: black;
+
+}
+h3{text-align: center;}
+
+.book1{display:flex ;
+    border:5px blue solid;
+    flex-direction: row;
+    font-style: black;
+}
+
+#table{
+display:flex;
+flex:content row;
+}
+
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+#win{
+    display: flex;
+    flex-direction:column;
+    border: 5px #1e1ca7 solid ;
+    width: 400px;
+    margin: 0 auto;
+    padding: 0;
+}
+.win-login{
+    
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 7px;
+}
+
+label {
+    width: 100px;
+}
+
+input {
+    margin-left: 5px;
+    height: 30px;
+    width: 100%;
+}
+
+.title {
+    margin: 0;
+    background-color:rgb(29, 21, 151);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+.submit{
+    width: 50px;
+    border: 2px blue solid;
+    margin-left: 340px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#det{
+    margin-left: 1000px;
+}
+img{border: 3px brown solid;   
+}
+.story{
+    display: flex;
+    margin-left: 20px;
+    font-style: italic black;
+}
+.books{
+display: flex;
+flex-direction: column;
+}
+.foo{
+    color: white;
+}
+.elogin{
+    color: black;
+}
+
+.author{border: 2px #1e1ca7 solid;
+    margin-left: 20px;
+
+}
+
+
+
+
+
